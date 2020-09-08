@@ -1,7 +1,7 @@
 # <오준석의 플러터 생존 코딩> 정리
 
 [오준석의 플러터 생존 코딩](http://www.yes24.com/Product/Goods/87664198)의 코드를 정리한 Repository입니다.  
-책의 내용 및 코드의 저작권은 저자이신 **오준석** 님에게 있음을 알려드립니다.
+책의 내용 및 [코드](https://github.com/junsuk5/flutter_basic)의 저작권은 저자이신 **오준석** 님에게 있음을 알려드립니다.
 
 ## ✅ TODO
 
