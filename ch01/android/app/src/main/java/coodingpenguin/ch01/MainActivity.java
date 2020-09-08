@@ -1,4 +1,4 @@
-package coodingpenguin.dev;
+package coodingpenguin.ch01;
 
 import io.flutter.embedding.android.FlutterActivity;
 

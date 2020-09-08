@@ -1,6 +1,6 @@
-# dev
+# ch01
 
-01. The first flutter application
+A new Flutter application.
 
 ## Getting Started
 
